@@ -2224,6 +2224,8 @@
             "icon": "Icon",
             "name": "Name",
             "last_scanned": "Last scanned",
+            "automation": "Automation",
+            "edit": "Edit",
             "write": "Write"
           },
           "detail": {
