@@ -2435,7 +2435,7 @@
       },
       "shortcuts": {
         "title": "Shortcuts",
-        "enable_shortcuts_hint": "For keyboard shortcuts to work, make sure you have them enabled in your {user_profile}.",
+        "enable_shortcuts_hint": "For shortcuts to work, make sure you have them enabled in your {user_profile}.",
         "enable_shortcuts_hint_user_profile": "user profile",
         "keys": {
           "del": "Del",
@@ -2481,7 +2481,7 @@
         "other": {
           "title": "Other",
           "my_link": "get My Home Assistant link",
-          "show_shortcuts": "show keyboard shortcuts"
+          "show_shortcuts": "show shortcuts list"
         }
       }
     },
@@ -10559,8 +10559,8 @@
           "description": "Enable or disable vibration on this device when controlling devices."
         },
         "enable_shortcuts": {
-          "header": "Keyboard shortcuts",
-          "description": "Enable or disable keyboard shortcuts for performing various actions in the UI."
+          "header": "Shortcuts",
+          "description": "Enable or disable shortcuts for performing various actions in the UI."
         },
         "suspend": {
           "header": "Suspend background connections",
